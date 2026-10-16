@@ -8,6 +8,8 @@ The event brought together AWS professionals, community leaders,
 developers, and cloud enthusiasts to share knowledge, technical
 experiences, and innovations across the AWS ecosystem.
 
+![alt text](image.png)
+
 ## Event Details
 
 - **Event:** AWS Community Day Brasil 2026 — Northeast Edition
