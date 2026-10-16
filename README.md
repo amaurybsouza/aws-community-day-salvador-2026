@@ -28,6 +28,12 @@ experiences, and innovations across the AWS ecosystem.
 **Stage:** Main Stage  
 **Time:** 09:00 – 10:00
 
+![image01](https://github.com/amaurybsouza/aws-community-day-salvador-2026/blob/main/images/DSC_2340.JPG)
+
+sasas
+
+![image01](https://github.com/amaurybsouza/aws-community-day-salvador-2026/blob/main/images/DSC_2582.JPG)
+
 ### Session Overview
 
 Exploring how Artificial Intelligence can support modern Cloud
